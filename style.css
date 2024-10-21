@@ -1,0 +1,143 @@
+*{
+   text-decoration: rgb(246, 246, 248) ; 
+   color: rgb(225, 225, 228)  ;
+   background: transparent;
+}
+img{
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+}
+.post-header{
+    border: 2px solid rgb(227, 227, 231);
+
+height: 200px;
+width: 250px;
+padding: 20px;
+/* display: none; */
+border-radius: 10px;
+}
+
+#submit{
+    margin-top: 15px;
+ 
+    align-self: center;
+    margin-left: 0px;
+    
+}
+#input2{
+    background: transparent;
+}
+#email2{
+    background: transparent;
+}
+#text2{
+    background: transparent;
+}
+#src{
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%; /* Full width */
+    min-height: 100%; /* Full height */
+    z-index: -1; /* Behind content */
+    object-fit: cover; /* Cover entire background */
+}
+#headin{
+    text-align: center;
+    text-transform: capitalize;
+    width: 200px;
+}
+#input{
+    width: 200px;
+    height: 26px;
+    margin-top: 15px;
+  
+    border-radius: 5px;
+}
+.box{
+    display: flex;
+}
+#email{
+    width: 200px;
+    height: 26px;
+  margin-top: 15px;
+   
+    border-radius: 5px;
+
+}
+#text{
+    width: 200px;
+    height: 26px;
+  margin-top: 15px;
+    border-radius: 5px;
+}
+.data{
+    width: 250px;
+    padding: 10px;
+    width: 10px;
+    height: 400px;
+    margin-left: 350px;
+    position: fixed;
+}
+#submit{
+    background: transparent;
+    border: 2px solid rgb(44, 58, 184);
+    text-transform: capitalize;
+    border-radius: 5px;
+}
+#email2{
+    width: 200px;
+    height: 26px;
+  margin-top: 15px;
+   
+    border-radius: 5px;
+
+}
+#text2{
+    width: 200px;
+    height: 26px;
+  margin-top: 15px;
+    border-radius: 5px;
+}
+.post-data{
+    width: 250px;
+    padding: 10px;
+    width: 10px;
+    height: 400px;
+    margin-left: 350px;
+    position: fixed;
+}
+#input2{
+    width: 200px;
+    height: 26px;
+    margin-top: 15px;
+  
+    border-radius: 5px;
+}
+#post-updata{
+    margin-top: 10px;
+    background: transparent;
+    border: 2px solid rgb(44, 58, 184);
+
+    text-transform: capitalize;
+    border-radius: 5px;
+}
+.post{
+    margin: 20px;
+    /* border-radius:10px;
+    border: 2px solid black; */
+}
+.edit-btn{
+    background: transparent;
+    border-radius: 5px;
+    /* border: 2px solid black; */
+    border: 2px solid rgb(44, 58, 184);
+
+}.delete-btn{
+    background: transparent;
+    border-radius: 5px;
+    /* border: 2px solid black; */
+    border: 2px solid rgb(44, 58, 184);
+
+}
